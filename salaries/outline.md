@@ -34,3 +34,8 @@
 
 - question: who wants to discuss this further and give insights into the
   relation to their own salary?
+
+## Links
+
+- https://open.buffer.com/layoffs-and-moving-forward/
+- https://open.buffer.com/pricing-2016/
